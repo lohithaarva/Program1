@@ -3,5 +3,6 @@ class first{
 		System.out.println("hello Bengaluru");
 		System.out.println("namma bengaluru");
 		System.out.println("hello mumbai");
+		System.out.prinyln("hello pune");
 }
 }
